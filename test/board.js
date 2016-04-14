@@ -64,5 +64,6 @@ describe('tictactoe', function(){
 		toe.turn('X', {posRow: 0, posCol: 1})
 		toe.turn('X', {posRow: 0, posCol: 2})
 		toe.checkWin()
+		toe.turn('X', {posRow: 1, posCol: 0}).should.equal(false)
 	})
 })
