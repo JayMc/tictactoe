@@ -1,5 +1,5 @@
 {
-  "name": "tictactoe",
+  "name": "tictactoe-sim",
   "version": "0.0.1",
   "description": "game engine for tictactoe / naught and crosses",
   "main": "index.js",

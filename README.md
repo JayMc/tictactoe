@@ -26,3 +26,6 @@ npm test
 ## build from source
 Source is written in ES6/ES2015. If you make any changes run ```npm run compile``` before running tests.
 You'll also need [Babel](https://babeljs.io/)
+
+## Attribution
+Logo by [Adam Mullin](https://thenounproject.com/search/?q=tictactoe&i=3983)
